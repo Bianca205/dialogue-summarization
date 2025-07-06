@@ -97,7 +97,7 @@ Foram utilizadas métricas padrão para tarefas de geração de texto:
   Avaliam a sobreposição entre as sequências reais e geradas.
 
 ---
-## Resultados
+### Resultados
 Os arquivos CSV completos e resultados de predições estão disponíveis no link abaixo:
 
 🔗 Acesse os dados e resultados no Google Drive
