@@ -4,7 +4,7 @@ Este repositório apresenta o desenvolvimento de um sistema de **sumarização a
 
 ---
 
-## 📌 Proposta do Projeto
+## Proposta do Projeto
 
 O objetivo deste projeto é construir um modelo capaz de gerar **resumos abstratos** de diálogos escritos, sintetizando o conteúdo principal em poucas palavras. A ideia central é resolver um desafio clássico de PLN: **reduzir um texto extenso (diálogo) a uma forma mais concisa (resumo)**, sem apenas extrair frases, mas **gerando novos enunciados semanticamente equivalentes**.
 
@@ -16,7 +16,7 @@ Essa tarefa é essencial em aplicações como:
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem**: Python 3
 - **Bibliotecas principais**:  
@@ -25,7 +25,7 @@ Essa tarefa é essencial em aplicações como:
 
 ---
 
-## 🧱 Etapas do Pipeline
+## Etapas do Pipeline
 
 ### 1. Preparação do ambiente
 Instalação das bibliotecas necessárias e montagem do Google Drive para leitura dos arquivos `.csv`.
